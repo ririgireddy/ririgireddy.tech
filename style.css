@@ -1,0 +1,38 @@
+
+
+img {
+  width: 200px;
+  margin-top: 50px;
+  user-select: none;
+}
+
+
+::selection {
+  background: #add8e6;
+}
+
+.head {
+
+  margin-top: 40px;
+}
+
+.cont {
+  width: 500px;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+}
+
+.form {
+  text-align: left;
+  line-height: 1.7;
+  margin-top: 20px;
+}
+
+.alert {
+  margin-top: 18px;
+}
+a:link{
+  text-decoration: none!important;
+}
+
