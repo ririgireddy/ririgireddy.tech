@@ -1,5 +1,4 @@
 
-
 img {
   width: 200px;
   margin-top: 50px;
@@ -36,3 +35,24 @@ a:link{
   text-decoration: none!important;
 }
 
+
+
+@media (max-width: 600px) {
+  .cont {
+    width: 90%;
+  }
+
+
+}
+
+
+.x {
+  margin: 0 2px;
+}
+
+
+span {
+  background: -webkit-linear-gradient(-45deg, #0198FF, #5ccfe8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
